@@ -1,0 +1,1 @@
+This folder is a general container for all dotnet training starting January 2026
