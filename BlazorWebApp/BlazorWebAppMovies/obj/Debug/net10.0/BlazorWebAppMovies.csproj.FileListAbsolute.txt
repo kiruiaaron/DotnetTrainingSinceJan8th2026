@@ -70,8 +70,6 @@ e:\Aron\Dotnet\TrainingSinceJanuary82026\BlazorWebApp\BlazorWebAppMovies\obj\Deb
 e:\Aron\Dotnet\TrainingSinceJanuary82026\BlazorWebApp\BlazorWebAppMovies\obj\Debug\net10.0\compressed\06quq0wc4w-{0}-63fj8s7r0e-63fj8s7r0e.gz
 e:\Aron\Dotnet\TrainingSinceJanuary82026\BlazorWebApp\BlazorWebAppMovies\obj\Debug\net10.0\compressed\l8ojfxd7er-{0}-0j3bgjxly4-0j3bgjxly4.gz
 e:\Aron\Dotnet\TrainingSinceJanuary82026\BlazorWebApp\BlazorWebAppMovies\obj\Debug\net10.0\compressed\m5q4z4wr8e-{0}-13ja33weya-13ja33weya.gz
-e:\Aron\Dotnet\TrainingSinceJanuary82026\BlazorWebApp\BlazorWebAppMovies\obj\Debug\net10.0\compressed\rvvefaeipk-{0}-wmp8iwak4q-wmp8iwak4q.gz
-e:\Aron\Dotnet\TrainingSinceJanuary82026\BlazorWebApp\BlazorWebAppMovies\obj\Debug\net10.0\compressed\dpzebyj6gc-{0}-2lgipwaf5j-2lgipwaf5j.gz
 e:\Aron\Dotnet\TrainingSinceJanuary82026\BlazorWebApp\BlazorWebAppMovies\obj\Debug\net10.0\compressed\55fjfrg8ch-{0}-z1nuu9j95m-z1nuu9j95m.gz
 e:\Aron\Dotnet\TrainingSinceJanuary82026\BlazorWebApp\BlazorWebAppMovies\obj\Debug\net10.0\staticwebassets.build.json
 e:\Aron\Dotnet\TrainingSinceJanuary82026\BlazorWebApp\BlazorWebAppMovies\obj\Debug\net10.0\staticwebassets.build.json.cache
@@ -365,3 +363,5 @@ E:\Aron\Dotnet\TrainingSinceJanuary82026\BlazorWebApp\BlazorWebAppMovies\obj\Deb
 E:\Aron\Dotnet\TrainingSinceJanuary82026\BlazorWebApp\BlazorWebAppMovies\obj\Debug\net10.0\compressed\1x45lb54o8-{0}-boiwgh0w5b-boiwgh0w5b.gz
 E:\Aron\Dotnet\TrainingSinceJanuary82026\BlazorWebApp\BlazorWebAppMovies\obj\Debug\net10.0\compressed\w0rv53nok0-{0}-67xk22wb13-67xk22wb13.gz
 E:\Aron\Dotnet\TrainingSinceJanuary82026\BlazorWebApp\BlazorWebAppMovies\obj\Debug\net10.0\BlazorWe.6E9C9790.Up2Date
+E:\Aron\Dotnet\TrainingSinceJanuary82026\BlazorWebApp\BlazorWebAppMovies\obj\Debug\net10.0\compressed\rvvefaeipk-{0}-2i0r6wwb69-2i0r6wwb69.gz
+E:\Aron\Dotnet\TrainingSinceJanuary82026\BlazorWebApp\BlazorWebAppMovies\obj\Debug\net10.0\compressed\dpzebyj6gc-{0}-iz83ucvm53-iz83ucvm53.gz
