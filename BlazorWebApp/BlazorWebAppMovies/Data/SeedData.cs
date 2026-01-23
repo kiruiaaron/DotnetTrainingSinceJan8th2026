@@ -28,6 +28,7 @@ public class SeedData
                 ReleaseDate = new DateOnly(1989, 7, 21),
                 Genre = "Romantic Comedy",
                 Price = 7.99M,
+                Rating = "PG"
 
             },
             new Movie
@@ -36,6 +37,7 @@ public class SeedData
                 ReleaseDate = new DateOnly(1984, 3, 13),
                 Genre = "Comedy",
                 Price = 8.99M,
+                Rating = "PG-13"
 
             },
             new Movie
@@ -44,6 +46,7 @@ public class SeedData
                 ReleaseDate = new DateOnly(1986, 2, 23),
                 Genre = "Comedy",
                 Price = 9.99M,
+                Rating = "R"
 
             },
             new Movie
@@ -52,6 +55,7 @@ public class SeedData
                 ReleaseDate = new DateOnly(1959, 4, 15),
                 Genre = "Western",
                 Price = 3.99M,
+                Rating = "R"
 
             }
         );
