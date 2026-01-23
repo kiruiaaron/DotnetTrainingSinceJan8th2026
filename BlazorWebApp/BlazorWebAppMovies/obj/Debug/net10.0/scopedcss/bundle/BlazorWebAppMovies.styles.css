@@ -363,3 +363,11 @@ main[b-lbqbc54ig8] {
         opacity: 0;
     }
 }
+/* /Components/Pages/MoviePages/Index.razor.rz.scp.css */
+[b-3r9tmshvtj] tr{
+    height: 3em
+}
+
+[b-3r9tmshvtj] tr >td{
+    vertical-align: middle;
+}

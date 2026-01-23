@@ -11,18 +11,16 @@
 
 <h1>Index</h1>
 <div>
-    <form action ="/movies" data-enhance data-permanent>
-    <input type = "search" name = "TitleFilter"/>
-    <input type = "submit" value = "Search" />
-    </form>
+   <input type = "search" @bind = "titleFilter" @bind:event= "oninput" />
 </div>
 
 <p>
     <a href="movies/create">Create New</a>
 </p>
 
-<QuickGrid Class="table" Items="FilteredMovies" Pagination = "pagination">
-    <PropertyColumn Property="movie => movie.Title" />
+<div>
+    <QuickGrid Class="table" Items="FilteredMovies" Pagination = "pagination">
+    <PropertyColumn Property="movie => movie.Title" Sortable = "true"/>
     <PropertyColumn Property="movie => movie.ReleaseDate" title="Release Date" />
     <PropertyColumn Property="movie => movie.Genre" />
     <PropertyColumn Property="movie => movie.Price" />
@@ -34,13 +32,14 @@
         <a href="@($"movies/delete?id={movie.Id}")">Delete</a>
     </TemplateColumn>
 </QuickGrid>
+
+</div>
+
 <Paginator state = "pagination"/>
 
 @code {
-    [SupplyParameterFromQuery]
-    private string? TitleFilter { get; set; }
-    private IQueryable<Movie> FilteredMovies =>
-        context.Movie.Where(m => m.Title!.Contains(TitleFilter ?? string.Empty));
+    private string titleFilter = string.Empty;
+    private IQueryable<Movie> FilteredMovies => context.Movie.Where(m => m.Title!.Contains(titleFilter));
     private BlazorWebAppMoviesContext context = default!;
 
     protected override void OnInitialized()
