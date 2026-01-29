@@ -1,3 +1,6 @@
+using Microsoft.AspNetCore.ResponseCompression;
+using BlazorSignalRApp.Hubs;
+
 using BlazorSignalRApp.Client.Pages;
 using BlazorSignalRApp.Components;
 
@@ -7,7 +10,15 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorComponents()
     .AddInteractiveWebAssemblyComponents();
 
+builder.Services.AddSignalR();
+builder.Services.AddResponseCompression(opts => {
+    opts.MimeTypes = ResponseCompressionDefaults.MimeTypes.Concat(
+    ["application/octet-stream"]);
+});
+
 var app = builder.Build();
+app.UseResponseCompression();
+app.MapHub<ChatHub>("/chathub");
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
