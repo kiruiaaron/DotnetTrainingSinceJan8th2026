@@ -1,0 +1,4 @@
+wwwroot\appsettings.Development.json
+wwwroot\appsettings.json
+E:\Aron\Dotnet\TrainingSinceJanuary82026\Todo\Todo\Todo.Client\wwwroot\appsettings.Development.json
+E:\Aron\Dotnet\TrainingSinceJanuary82026\Todo\Todo\Todo.Client\wwwroot\appsettings.json
