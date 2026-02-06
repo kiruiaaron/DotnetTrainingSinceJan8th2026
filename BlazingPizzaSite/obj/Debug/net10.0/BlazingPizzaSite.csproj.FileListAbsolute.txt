@@ -84,3 +84,11 @@ E:\Aron\Dotnet\TrainingSinceJanuary82026\BlazingPizzaSite\obj\Debug\net10.0\refi
 E:\Aron\Dotnet\TrainingSinceJanuary82026\BlazingPizzaSite\obj\Debug\net10.0\BlazingPizzaSite.pdb
 E:\Aron\Dotnet\TrainingSinceJanuary82026\BlazingPizzaSite\obj\Debug\net10.0\BlazingPizzaSite.genruntimeconfig.cache
 E:\Aron\Dotnet\TrainingSinceJanuary82026\BlazingPizzaSite\obj\Debug\net10.0\ref\BlazingPizzaSite.dll
+E:\Aron\Dotnet\TrainingSinceJanuary82026\BlazingPizzaSite\obj\Debug\net10.0\compressed\twyh8dla04-{0}-r8sp8q6ack-r8sp8q6ack.gz
+E:\Aron\Dotnet\TrainingSinceJanuary82026\BlazingPizzaSite\obj\Debug\net10.0\compressed\tktwnghqqb-{0}-7trb2i0i7p-7trb2i0i7p.gz
+E:\Aron\Dotnet\TrainingSinceJanuary82026\BlazingPizzaSite\obj\Debug\net10.0\compressed\ibdydfmvgs-{0}-fnb0iunfx4-fnb0iunfx4.gz
+E:\Aron\Dotnet\TrainingSinceJanuary82026\BlazingPizzaSite\obj\Debug\net10.0\compressed\e44m9yf56x-{0}-moj8wh9xwe-moj8wh9xwe.gz
+E:\Aron\Dotnet\TrainingSinceJanuary82026\BlazingPizzaSite\obj\Debug\net10.0\compressed\c2fnqhqj55-{0}-e0lxt3z8v9-e0lxt3z8v9.gz
+E:\Aron\Dotnet\TrainingSinceJanuary82026\BlazingPizzaSite\obj\Debug\net10.0\compressed\5jtc9w3hes-{0}-xdpn0472bf-xdpn0472bf.gz
+E:\Aron\Dotnet\TrainingSinceJanuary82026\BlazingPizzaSite\obj\Debug\net10.0\compressed\ar1s8eicqc-{0}-g6o5s5mfyw-g6o5s5mfyw.gz
+E:\Aron\Dotnet\TrainingSinceJanuary82026\BlazingPizzaSite\obj\Debug\net10.0\compressed\g7btiefgce-{0}-vj4utch7kq-vj4utch7kq.gz
