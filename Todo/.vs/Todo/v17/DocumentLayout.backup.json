@@ -3,48 +3,36 @@
   "WorkspaceRootPath": "E:\\Aron\\Dotnet\\TrainingSinceJanuary82026\\Todo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CD9BD71F-BA19-4B90-A75C-9BAB96EEF89A}|Todo\\Todo\\Todo.csproj|e:\\aron\\dotnet\\trainingsincejanuary82026\\todo\\todo\\todo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CD9BD71F-BA19-4B90-A75C-9BAB96EEF89A}|Todo\\Todo\\Todo.csproj|solutionrelative:todo\\todo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9BD71F-BA19-4B90-A75C-9BAB96EEF89A}|Todo\\Todo\\Todo.csproj|e:\\aron\\dotnet\\trainingsincejanuary82026\\todo\\todo\\todo\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD9BD71F-BA19-4B90-A75C-9BAB96EEF89A}|Todo\\Todo\\Todo.csproj|solutionrelative:todo\\todo\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9BD71F-BA19-4B90-A75C-9BAB96EEF89A}|Todo\\Todo\\Todo.csproj|e:\\aron\\dotnet\\trainingsincejanuary82026\\todo\\todo\\todo\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD9BD71F-BA19-4B90-A75C-9BAB96EEF89A}|Todo\\Todo\\Todo.csproj|solutionrelative:todo\\todo\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CD9BD71F-BA19-4B90-A75C-9BAB96EEF89A}|Todo\\Todo\\Todo.csproj|e:\\aron\\dotnet\\trainingsincejanuary82026\\todo\\todo\\todo\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CD9BD71F-BA19-4B90-A75C-9BAB96EEF89A}|Todo\\Todo\\Todo.csproj|solutionrelative:todo\\todo\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD9BD71F-BA19-4B90-A75C-9BAB96EEF89A}|Todo\\Todo\\Todo.csproj|e:\\aron\\dotnet\\trainingsincejanuary82026\\todo\\todo\\todo\\components\\pages\\todo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD9BD71F-BA19-4B90-A75C-9BAB96EEF89A}|Todo\\Todo\\Todo.csproj|solutionrelative:todo\\todo\\components\\pages\\todo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD9BD71F-BA19-4B90-A75C-9BAB96EEF89A}|Todo\\Todo\\Todo.csproj|e:\\aron\\dotnet\\trainingsincejanuary82026\\todo\\todo\\todo\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD9BD71F-BA19-4B90-A75C-9BAB96EEF89A}|Todo\\Todo\\Todo.csproj|solutionrelative:todo\\todo\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD9BD71F-BA19-4B90-A75C-9BAB96EEF89A}|Todo\\Todo\\Todo.csproj|e:\\aron\\dotnet\\trainingsincejanuary82026\\todo\\todo\\todo\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD9BD71F-BA19-4B90-A75C-9BAB96EEF89A}|Todo\\Todo\\Todo.csproj|solutionrelative:todo\\todo\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD9BD71F-BA19-4B90-A75C-9BAB96EEF89A}|Todo\\Todo\\Todo.csproj|e:\\aron\\dotnet\\trainingsincejanuary82026\\todo\\todo\\todo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD9BD71F-BA19-4B90-A75C-9BAB96EEF89A}|Todo\\Todo\\Todo.csproj|solutionrelative:todo\\todo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD9BD71F-BA19-4B90-A75C-9BAB96EEF89A}|Todo\\Todo\\Todo.csproj|e:\\aron\\dotnet\\trainingsincejanuary82026\\todo\\todo\\todo\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD9BD71F-BA19-4B90-A75C-9BAB96EEF89A}|Todo\\Todo\\Todo.csproj|solutionrelative:todo\\todo\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13EAD451-995A-4825-A407-E2867E43C337}|Todo\\Todo.Client\\Todo.Client.csproj|e:\\aron\\dotnet\\trainingsincejanuary82026\\todo\\todo\\todo.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{13EAD451-995A-4825-A407-E2867E43C337}|Todo\\Todo.Client\\Todo.Client.csproj|solutionrelative:todo\\todo.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13EAD451-995A-4825-A407-E2867E43C337}|Todo\\Todo.Client\\Todo.Client.csproj|e:\\aron\\dotnet\\trainingsincejanuary82026\\todo\\todo\\todo.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{13EAD451-995A-4825-A407-E2867E43C337}|Todo\\Todo.Client\\Todo.Client.csproj|solutionrelative:todo\\todo.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13EAD451-995A-4825-A407-E2867E43C337}|Todo\\Todo.Client\\Todo.Client.csproj|e:\\aron\\dotnet\\trainingsincejanuary82026\\todo\\todo\\todo.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13EAD451-995A-4825-A407-E2867E43C337}|Todo\\Todo.Client\\Todo.Client.csproj|solutionrelative:todo\\todo.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD9BD71F-BA19-4B90-A75C-9BAB96EEF89A}|Todo\\Todo\\Todo.csproj|e:\\aron\\dotnet\\trainingsincejanuary82026\\todo\\todo\\todo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD9BD71F-BA19-4B90-A75C-9BAB96EEF89A}|Todo\\Todo\\Todo.csproj|solutionrelative:todo\\todo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD9BD71F-BA19-4B90-A75C-9BAB96EEF89A}|Todo\\Todo\\Todo.csproj|e:\\aron\\dotnet\\trainingsincejanuary82026\\todo\\todo\\todo\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CD9BD71F-BA19-4B90-A75C-9BAB96EEF89A}|Todo\\Todo\\Todo.csproj|solutionrelative:todo\\todo\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD9BD71F-BA19-4B90-A75C-9BAB96EEF89A}|Todo\\Todo\\Todo.csproj|e:\\aron\\dotnet\\trainingsincejanuary82026\\todo\\todo\\todo\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD9BD71F-BA19-4B90-A75C-9BAB96EEF89A}|Todo\\Todo\\Todo.csproj|solutionrelative:todo\\todo\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{13EAD451-995A-4825-A407-E2867E43C337}|Todo\\Todo.Client\\Todo.Client.csproj|e:\\aron\\dotnet\\trainingsincejanuary82026\\todo\\todo\\todo.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13EAD451-995A-4825-A407-E2867E43C337}|Todo\\Todo.Client\\Todo.Client.csproj|solutionrelative:todo\\todo.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,55 +58,64 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Home.razor",
-              "DocumentMoniker": "E:\\Aron\\Dotnet\\TrainingSinceJanuary82026\\Todo\\Todo\\Todo\\Components\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "Todo\\Todo\\Components\\Pages\\Home.razor",
-              "ToolTip": "E:\\Aron\\Dotnet\\TrainingSinceJanuary82026\\Todo\\Todo\\Todo\\Components\\Pages\\Home.razor",
-              "RelativeToolTip": "Todo\\Todo\\Components\\Pages\\Home.razor",
+              "DocumentIndex": 4,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "E:\\Aron\\Dotnet\\TrainingSinceJanuary82026\\Todo\\Todo\\Todo\\TodoItem.cs",
+              "RelativeDocumentMoniker": "Todo\\Todo\\TodoItem.cs",
+              "ToolTip": "E:\\Aron\\Dotnet\\TrainingSinceJanuary82026\\Todo\\Todo\\Todo\\TodoItem.cs",
+              "RelativeToolTip": "Todo\\Todo\\TodoItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-03T10:35:55.656Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T13:47:49.086Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Aron\\Dotnet\\TrainingSinceJanuary82026\\Todo\\Todo\\Todo\\Program.cs",
               "RelativeDocumentMoniker": "Todo\\Todo\\Program.cs",
               "ToolTip": "E:\\Aron\\Dotnet\\TrainingSinceJanuary82026\\Todo\\Todo\\Todo\\Program.cs",
               "RelativeToolTip": "Todo\\Todo\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T10:35:41.83Z",
+              "WhenOpened": "2026-02-05T13:47:42.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Aron\\Dotnet\\TrainingSinceJanuary82026\\Todo\\Todo\\Todo\\appsettings.json",
+              "RelativeDocumentMoniker": "Todo\\Todo\\appsettings.json",
+              "ToolTip": "E:\\Aron\\Dotnet\\TrainingSinceJanuary82026\\Todo\\Todo\\Todo\\appsettings.json",
+              "RelativeToolTip": "Todo\\Todo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-05T13:47:41.296Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Counter.razor",
-              "DocumentMoniker": "E:\\Aron\\Dotnet\\TrainingSinceJanuary82026\\Todo\\Todo\\Todo.Client\\Pages\\Counter.razor",
-              "RelativeDocumentMoniker": "Todo\\Todo.Client\\Pages\\Counter.razor",
-              "ToolTip": "E:\\Aron\\Dotnet\\TrainingSinceJanuary82026\\Todo\\Todo\\Todo.Client\\Pages\\Counter.razor",
-              "RelativeToolTip": "Todo\\Todo.Client\\Pages\\Counter.razor",
+              "DocumentIndex": 1,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "E:\\Aron\\Dotnet\\TrainingSinceJanuary82026\\Todo\\Todo\\Todo\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Todo\\Todo\\Components\\Routes.razor",
+              "ToolTip": "E:\\Aron\\Dotnet\\TrainingSinceJanuary82026\\Todo\\Todo\\Todo\\Components\\Routes.razor",
+              "RelativeToolTip": "Todo\\Todo\\Components\\Routes.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-03T10:35:26.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-05T13:47:39.52Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Aron\\Dotnet\\TrainingSinceJanuary82026\\Todo\\Todo\\Todo.Client\\Program.cs",
-              "RelativeDocumentMoniker": "Todo\\Todo.Client\\Program.cs",
-              "ToolTip": "E:\\Aron\\Dotnet\\TrainingSinceJanuary82026\\Todo\\Todo\\Todo.Client\\Program.cs",
-              "RelativeToolTip": "Todo\\Todo.Client\\Program.cs",
+              "DocumentIndex": 2,
+              "Title": "App.razor",
+              "DocumentMoniker": "E:\\Aron\\Dotnet\\TrainingSinceJanuary82026\\Todo\\Todo\\Todo\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Todo\\Todo\\Components\\App.razor",
+              "ToolTip": "E:\\Aron\\Dotnet\\TrainingSinceJanuary82026\\Todo\\Todo\\Todo\\Components\\App.razor",
+              "RelativeToolTip": "Todo\\Todo\\Components\\App.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T10:35:13.354Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-05T13:47:36.584Z"
             },
             {
               "$type": "Document",
@@ -128,14 +125,25 @@
               "RelativeDocumentMoniker": "Todo\\Todo.Client\\_Imports.razor",
               "ToolTip": "E:\\Aron\\Dotnet\\TrainingSinceJanuary82026\\Todo\\Todo\\Todo.Client\\_Imports.razor",
               "RelativeToolTip": "Todo\\Todo.Client\\_Imports.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-03T10:34:53.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-05T13:46:32.009Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "E:\\Aron\\Dotnet\\TrainingSinceJanuary82026\\Todo\\Todo\\Todo\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Todo\\Todo\\Components\\_Imports.razor",
+              "ToolTip": "E:\\Aron\\Dotnet\\TrainingSinceJanuary82026\\Todo\\Todo\\Todo\\Components\\_Imports.razor",
+              "RelativeToolTip": "Todo\\Todo\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-05T13:44:59.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Weather.razor",
               "DocumentMoniker": "E:\\Aron\\Dotnet\\TrainingSinceJanuary82026\\Todo\\Todo\\Todo\\Components\\Pages\\Weather.razor",
               "RelativeDocumentMoniker": "Todo\\Todo\\Components\\Pages\\Weather.razor",
@@ -143,73 +151,7 @@
               "RelativeToolTip": "Todo\\Todo\\Components\\Pages\\Weather.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-03T10:29:56.325Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Error.razor",
-              "DocumentMoniker": "E:\\Aron\\Dotnet\\TrainingSinceJanuary82026\\Todo\\Todo\\Todo\\Components\\Pages\\Error.razor",
-              "RelativeDocumentMoniker": "Todo\\Todo\\Components\\Pages\\Error.razor",
-              "ToolTip": "E:\\Aron\\Dotnet\\TrainingSinceJanuary82026\\Todo\\Todo\\Todo\\Components\\Pages\\Error.razor",
-              "RelativeToolTip": "Todo\\Todo\\Components\\Pages\\Error.razor",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-03T10:29:53.953Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_Imports.razor",
-              "DocumentMoniker": "E:\\Aron\\Dotnet\\TrainingSinceJanuary82026\\Todo\\Todo\\Todo\\Components\\_Imports.razor",
-              "RelativeDocumentMoniker": "Todo\\Todo\\Components\\_Imports.razor",
-              "ToolTip": "E:\\Aron\\Dotnet\\TrainingSinceJanuary82026\\Todo\\Todo\\Todo\\Components\\_Imports.razor",
-              "RelativeToolTip": "Todo\\Todo\\Components\\_Imports.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-03T10:28:41.198Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TodoItem.cs",
-              "DocumentMoniker": "E:\\Aron\\Dotnet\\TrainingSinceJanuary82026\\Todo\\Todo\\Todo\\TodoItem.cs",
-              "RelativeDocumentMoniker": "Todo\\Todo\\TodoItem.cs",
-              "ToolTip": "E:\\Aron\\Dotnet\\TrainingSinceJanuary82026\\Todo\\Todo\\Todo\\TodoItem.cs",
-              "RelativeToolTip": "Todo\\Todo\\TodoItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T10:04:18.936Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "E:\\Aron\\Dotnet\\TrainingSinceJanuary82026\\Todo\\Todo\\Todo\\Components\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "Todo\\Todo\\Components\\Layout\\NavMenu.razor",
-              "ToolTip": "E:\\Aron\\Dotnet\\TrainingSinceJanuary82026\\Todo\\Todo\\Todo\\Components\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "Todo\\Todo\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAAB4AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-03T09:58:57.886Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Todo.razor",
-              "DocumentMoniker": "E:\\Aron\\Dotnet\\TrainingSinceJanuary82026\\Todo\\Todo\\Todo\\Components\\Pages\\Todo.razor",
-              "RelativeDocumentMoniker": "Todo\\Todo\\Components\\Pages\\Todo.razor",
-              "ToolTip": "E:\\Aron\\Dotnet\\TrainingSinceJanuary82026\\Todo\\Todo\\Todo\\Components\\Pages\\Todo.razor",
-              "RelativeToolTip": "Todo\\Todo\\Components\\Pages\\Todo.razor",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-03T09:55:45.616Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-05T13:41:24.456Z"
             }
           ]
         },

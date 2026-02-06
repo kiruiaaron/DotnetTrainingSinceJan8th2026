@@ -199,6 +199,8 @@ E:\Aron\Dotnet\TrainingSinceJanuary82026\Todo\Todo\Todo.Client\bin\Debug\net9.0\
 E:\Aron\Dotnet\TrainingSinceJanuary82026\Todo\Todo\Todo.Client\bin\Debug\net9.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat
 E:\Aron\Dotnet\TrainingSinceJanuary82026\Todo\Todo\Todo.Client\bin\Debug\net9.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat
 E:\Aron\Dotnet\TrainingSinceJanuary82026\Todo\Todo\Todo.Client\bin\Debug\net9.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat
+E:\Aron\Dotnet\TrainingSinceJanuary82026\Todo\Todo\Todo.Client\bin\Debug\net9.0\wwwroot\_framework\Todo.Client.u2pcrn0dmy.wasm
+E:\Aron\Dotnet\TrainingSinceJanuary82026\Todo\Todo\Todo.Client\bin\Debug\net9.0\wwwroot\_framework\Todo.Client.js22659all.pdb
 E:\Aron\Dotnet\TrainingSinceJanuary82026\Todo\Todo\Todo.Client\bin\Debug\net9.0\wwwroot\_framework\blazor.boot.json
 E:\Aron\Dotnet\TrainingSinceJanuary82026\Todo\Todo\Todo.Client\bin\Debug\net9.0\wwwroot\_framework\blazor.webassembly.js.gz
 E:\Aron\Dotnet\TrainingSinceJanuary82026\Todo\Todo\Todo.Client\bin\Debug\net9.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.j0mj4vhukl.wasm.gz
@@ -401,6 +403,8 @@ E:\Aron\Dotnet\TrainingSinceJanuary82026\Todo\Todo\Todo.Client\bin\Debug\net9.0\
 E:\Aron\Dotnet\TrainingSinceJanuary82026\Todo\Todo\Todo.Client\bin\Debug\net9.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat.gz
 E:\Aron\Dotnet\TrainingSinceJanuary82026\Todo\Todo\Todo.Client\bin\Debug\net9.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat.gz
 E:\Aron\Dotnet\TrainingSinceJanuary82026\Todo\Todo\Todo.Client\bin\Debug\net9.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat.gz
+E:\Aron\Dotnet\TrainingSinceJanuary82026\Todo\Todo\Todo.Client\bin\Debug\net9.0\wwwroot\_framework\Todo.Client.u2pcrn0dmy.wasm.gz
+E:\Aron\Dotnet\TrainingSinceJanuary82026\Todo\Todo\Todo.Client\bin\Debug\net9.0\wwwroot\_framework\Todo.Client.js22659all.pdb.gz
 E:\Aron\Dotnet\TrainingSinceJanuary82026\Todo\Todo\Todo.Client\bin\Debug\net9.0\wwwroot\_framework\blazor.boot.json.gz
 E:\Aron\Dotnet\TrainingSinceJanuary82026\Todo\Todo\Todo.Client\bin\Debug\net9.0\Todo.Client.staticwebassets.runtime.json
 E:\Aron\Dotnet\TrainingSinceJanuary82026\Todo\Todo\Todo.Client\bin\Debug\net9.0\Todo.Client.staticwebassets.endpoints.json
@@ -1015,6 +1019,9 @@ E:\Aron\Dotnet\TrainingSinceJanuary82026\Todo\Todo\Todo.Client\obj\Debug\net9.0\
 E:\Aron\Dotnet\TrainingSinceJanuary82026\Todo\Todo\Todo.Client\obj\Debug\net9.0\compressed\rws89y5b2v-tjcz0u77k5.gz
 E:\Aron\Dotnet\TrainingSinceJanuary82026\Todo\Todo\Todo.Client\obj\Debug\net9.0\compressed\t4aifngj7u-tptq2av103.gz
 E:\Aron\Dotnet\TrainingSinceJanuary82026\Todo\Todo\Todo.Client\obj\Debug\net9.0\compressed\z7nfjv66gg-lfu7j35m59.gz
+E:\Aron\Dotnet\TrainingSinceJanuary82026\Todo\Todo\Todo.Client\obj\Debug\net9.0\compressed\rvck4f9hl1-u2pcrn0dmy.gz
+E:\Aron\Dotnet\TrainingSinceJanuary82026\Todo\Todo\Todo.Client\obj\Debug\net9.0\compressed\gplnr4v8kc-js22659all.gz
+E:\Aron\Dotnet\TrainingSinceJanuary82026\Todo\Todo\Todo.Client\obj\Debug\net9.0\compressed\qihro0w69g-nh652qs930.gz
 E:\Aron\Dotnet\TrainingSinceJanuary82026\Todo\Todo\Todo.Client\obj\Debug\net9.0\staticwebassets.build.json
 E:\Aron\Dotnet\TrainingSinceJanuary82026\Todo\Todo\Todo.Client\obj\Debug\net9.0\staticwebassets.build.json.cache
 E:\Aron\Dotnet\TrainingSinceJanuary82026\Todo\Todo\Todo.Client\obj\Debug\net9.0\staticwebassets.development.json
@@ -1025,10 +1032,3 @@ E:\Aron\Dotnet\TrainingSinceJanuary82026\Todo\Todo\Todo.Client\obj\Debug\net9.0\
 E:\Aron\Dotnet\TrainingSinceJanuary82026\Todo\Todo\Todo.Client\obj\Debug\net9.0\refint\Todo.Client.dll
 E:\Aron\Dotnet\TrainingSinceJanuary82026\Todo\Todo\Todo.Client\obj\Debug\net9.0\Todo.Client.pdb
 E:\Aron\Dotnet\TrainingSinceJanuary82026\Todo\Todo\Todo.Client\obj\Debug\net9.0\ref\Todo.Client.dll
-E:\Aron\Dotnet\TrainingSinceJanuary82026\Todo\Todo\Todo.Client\bin\Debug\net9.0\wwwroot\_framework\Todo.Client.w9ooz2ukwt.wasm
-E:\Aron\Dotnet\TrainingSinceJanuary82026\Todo\Todo\Todo.Client\bin\Debug\net9.0\wwwroot\_framework\Todo.Client.s88a4my9uu.pdb
-E:\Aron\Dotnet\TrainingSinceJanuary82026\Todo\Todo\Todo.Client\bin\Debug\net9.0\wwwroot\_framework\Todo.Client.w9ooz2ukwt.wasm.gz
-E:\Aron\Dotnet\TrainingSinceJanuary82026\Todo\Todo\Todo.Client\bin\Debug\net9.0\wwwroot\_framework\Todo.Client.s88a4my9uu.pdb.gz
-E:\Aron\Dotnet\TrainingSinceJanuary82026\Todo\Todo\Todo.Client\obj\Debug\net9.0\compressed\rvck4f9hl1-w9ooz2ukwt.gz
-E:\Aron\Dotnet\TrainingSinceJanuary82026\Todo\Todo\Todo.Client\obj\Debug\net9.0\compressed\gplnr4v8kc-s88a4my9uu.gz
-E:\Aron\Dotnet\TrainingSinceJanuary82026\Todo\Todo\Todo.Client\obj\Debug\net9.0\compressed\qihro0w69g-udb43b5fw5.gz
