@@ -1,8 +1,7 @@
-using Microsoft.Net.Http.Headers;
 
 namespace BlazingPizzaSite.Data;
 
-public class BlazingPizzaSite
+public class Pizza
 {
     public int PizzaId { get; set; }
     public string Name { get; set; }
