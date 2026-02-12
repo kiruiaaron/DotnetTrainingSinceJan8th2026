@@ -54,6 +54,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGl6emFCcm93c2VyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[E:/Aron/Dotnet/TrainingSinceJanuary82026/BlazingPizzaSite/Shared/ConfigurePizzaDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbmZpZ3VyZVBpenphRGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/Aron/Dotnet/TrainingSinceJanuary82026/BlazingPizzaSite/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-2o1u1h4za3
