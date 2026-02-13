@@ -1,4 +1,5 @@
 using BlazingPizzaSite.Data;
+using static BlazingPizzaSite.Data.Pizza;
 
 namespace BlazingPizzaSite.Services;
 

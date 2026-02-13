@@ -13,7 +13,7 @@ builder.Services.AddServerSideBlazor();
 builder.Services.AddSingleton<PizzaService>();
 builder.Services.AddHttpClient();
 builder.Services.AddSqlite<PizzaStoreContext>("Data Source=pizzastore.db");
-builder.Services.AddScoped<orderstate>();
+builder.Services.AddScoped<OrderState>();
 
 var app = builder.Build();
 
