@@ -2,13 +2,13 @@ using BlazingPizzaSite.Data;
 
 namespace BlazingPizzaSite.Services;
 
-public class orderstate
+public class OrderState
 {
     public bool ShowingConfigureDialog { get; set; }
     public Pizza ConfiguringPizza { get; set; }
-    public Order order { get; private set; } = new Order();
+    public Order Order { get; private set; } = new Order();
 
-    public void ShowconfigurePizzaDialog(PizzaSpecial special)
+    public void ShowConfigurePizzaDialog(PizzaSpecial special)
     {
         ConfiguringPizza = new Pizza()
         {
@@ -29,7 +29,7 @@ public class orderstate
 
     public void confirmConfigurePizzaDialog()
     {
-        order.Pizzas.Add(ConfiguringPizza);
+        Order.Pizzas.Add(ConfiguringPizza);
         ConfiguringPizza = null;
         ShowingConfigureDialog = false;
     }

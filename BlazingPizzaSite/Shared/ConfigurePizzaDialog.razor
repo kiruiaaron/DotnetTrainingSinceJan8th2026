@@ -1,4 +1,6 @@
 @using BlazingPizzaSite.Components.Pages
+@using BlazingPizzaSite.Data
+
 @inject HttpClient HttpClient
 
 <div class="dialog-container">
@@ -18,7 +20,7 @@
         </form>
 
         <div class="dialog-buttons">
-            <button class="btn btn-secondary mr-auto" >Cancel</button>
+            <button class="btn btn-secondary mr-auto" @onclick="@OnCancel">Cancel</button>
             <span class="mr-center">
                 Price: <span class="price">@(Pizza.GetFormattedTotalPrice())</span>
             </span>
@@ -28,5 +30,8 @@
 </div>
 
 @code {
-    [Parameter] public Pizza Pizza { get; set; }
+   [Parameter] public Pizza Pizza { get; set; }
+   [Parameter] public EventCallback OnCancel { get; set; }
+   [Parameter] public EventCallback OnConfirm { get; set; }
 }
+`` `
