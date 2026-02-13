@@ -34,4 +34,12 @@ public class OrderState
         ConfiguringPizza = null;
         ShowingConfigureDialog = false;
     }
+
+
+}
+ public class Order
+    {
+        public List<Pizza> Pizzas { get; set; } = new List<Pizza>();
+
+        public decimal GetTotalPrice() => Pizzas.Sum(p => p.Price * p.Size / 12);
 }

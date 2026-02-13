@@ -20,7 +20,7 @@ public class Pizza
 
     public int Size { get; set; }
 
-    public int DefaultSize = 12;
+    public static int DefaultSize { get; set; } = 12;
 
     public string GetFormattedTotalPrice() => (Price * Size / 12).ToString("0.00");
      
